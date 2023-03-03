@@ -1,2 +1,2 @@
-# -lk-dev
+# ılkodev
 patikaDers
